@@ -10,13 +10,4 @@ AI + Backend Engineer for:
 - Backend APIs
 - Docker / CI/CD / deployment
 
-## Important
-Replace or expand the project links, add genuine client testimonials when available, and connect the contact CTA to your preferred email/booking workflow.
 
-## Run
-python3 -m http.server 8000
-
-Then open http://localhost:8000
-
-## Deploy
-Suitable for GitHub Pages, Netlify, Vercel, Cloudflare Pages and other static hosts.
